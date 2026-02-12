@@ -10,3 +10,4 @@ My Advent of Code solutions
 - 2022: -
 - 2023: Python
 - 2024: Python
+- 2025: Python
